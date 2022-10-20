@@ -1,4 +1,7 @@
 ### Hi there 👋
+We're the College and Young Career group at Faith Bible Church!
+
+This website is primarily for lesson plans and study information, but feel free to contact us if you'd like to learn more about our group!
 
 <!--
 **cycseattle/cycseattle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
